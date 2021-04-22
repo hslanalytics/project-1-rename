@@ -4,7 +4,6 @@ print("Hello, World!")
 
 
 # Part Two
-print("Hello, Part 2")
 
 
 # Part Three
